@@ -1,5 +1,5 @@
 # DreamViewHotels
-A simple Hotel management website with database connection and admin interface
+A simple Hotel management website with database connection and admin interface using php, mysql, html, css
 
 1)install xampp
 2)copy all to htdocs folder inside C:\xampp
