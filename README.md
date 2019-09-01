@@ -17,4 +17,4 @@ A simple Hotel management website with database connection and admin interface u
 
 All done. Edit the code according to your need :)
 
-If any help needed im here 24/7
+If any help needed I will reply as soon as possible :)
