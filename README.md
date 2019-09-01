@@ -10,3 +10,5 @@ A simple Hotel management website with database connection and admin interface
 7)navigate to localhost/DreamViewHotels/home.php
 
 All done. Edit the code according to your need :)
+
+If any help needed im here 24/7
